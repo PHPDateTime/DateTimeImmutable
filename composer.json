@@ -3,9 +3,9 @@
     "description": "PHP DateTimeImmutable Implementation",
     "type": "library",
     "require": {
-        "php": "^8.3",
+        "php": ">=8.3",
         "potter/date-time": "dev-main",
-        "nesbot/carbon": "^3.0@dev"
+        "nesbot/carbon": "^3.8"
     },
     "license": "MIT",
     "autoload": {
@@ -19,5 +19,6 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
