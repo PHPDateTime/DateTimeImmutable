@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Potter\DateTime\Immutable;
+namespace PHPDateTime\Immutable;
 
 use \DateTimeImmutable as BaseDateTimeImmutable, \DateTimeInterface as BaseDateTimeInterface,
-     Carbon\CarbonInterface, DateInterval, DateTime, DateTimeZone, Potter\DateTime\DateTimeInterface;
+     Carbon\CarbonInterface, DateInterval, DateTime, DateTimeZone, PHPDateTime\DateTimeInterface;
 
 interface DateTimeImmutableInterface extends CarbonInterface, DateTimeInterface
 {

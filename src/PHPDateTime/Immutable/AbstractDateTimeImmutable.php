@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\DateTime\Immutable;
+namespace PHPDateTime\Immutable;
 
 use Carbon\CarbonImmutable;
 
