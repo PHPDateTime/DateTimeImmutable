@@ -1,5 +1,5 @@
 {
-    "name": "PHPDateTime/date-time-immutable",
+    "name": "phpdatetime/date-time-immutable",
     "description": "PHP DateTimeImmutable Implementation",
     "type": "library",
     "require": {
